@@ -79,7 +79,7 @@ To get AQI data, you need an API key from [IQAir AirVisual](https://www.iqair.co
 
 ## 📄 License
 
-MIT License © [Rupal Tripathi]
+MIT License © Rupal Tripathi
 
 ---
 
